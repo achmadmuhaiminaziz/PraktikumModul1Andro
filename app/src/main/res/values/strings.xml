@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Achmad Muhaimin Aziz_1202154219_Modul1</string>
+    <string name="abnormal">Abnormal</string>
+    <string name="nasi_uduk">Nasi Uduk</string>
+    <string name="activity2_name">Second Activity</string>
+    <string name="harga">Harga</string>
+    <string name="porsi">Porsi</string>
+    <string name="makan_malam">Makan Malam</string>
+    <string name="eatbus">Eatbus</string>
+    <string name="dengan_milea">Dengan Milea</string>
+    <string name="nama_menu">Nama Menu</string>
+    <string name="jumlah_porsi">Jumlah Porsi</string>
+</resources>
